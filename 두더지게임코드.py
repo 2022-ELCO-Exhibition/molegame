@@ -51,8 +51,8 @@ def main():
 	score = 0
 	miss=0
 	combo = 0
-	but1 = 5
-	but2 = 5
+	but1 = 0
+	but2 = 0
 	cry_time = 0
 	face=1
 	Over_Message = over_Font.render("GAME_OVER",True,(255,255,255))
